@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.0.0_abb617a95c9e35fbf78bb684d9aa4538aa562080.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_881416b71ec50f45d25c522f7574650ea89a7301.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_58dd8a1c58f8ed82402be6cc23953a6f1ec135ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_94ade9360147968c5eb37c3804e5ad588600566c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.0.0_18bfd9ad932b10eb6d3824a70c8af84e1fd75423.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_40aca2f5b7e93587522633c3d8a78fc8789626e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\volley_0c9ec9cd61e3b8bcff8333697eb2c36a6099f30c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_714cda50469bf2a91258c4fdc73d2a72dc9274ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-22.0.0_f185412a91cd32af24b1fcc93af44a469223f791.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_bfbd97a59a525aec8cc7e285b8bf53fa51d0c996.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_2b5b396bc739f65d596709572647a3cff88a4703.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Praneeth\Desktop\AndroidProjects\xyzReader-udacity\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_d4e660d1f2aad830a53eeb7ccd0bb35e010a5eb8.jar" />
+    </item>
+
+</items>
