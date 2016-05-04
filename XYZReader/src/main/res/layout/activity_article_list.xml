@@ -10,9 +10,8 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:theme="@style/Theme.Bacon.AppBarOverlay"
-        android:background="#3F51B5"
+        app:contentScrim="?attr/colorPrimary"
         app:elevation="10dp">
-
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
@@ -38,7 +37,6 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#C5CAE9"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         app:layout_scrollFlags="scroll|enterAlways"
         >
