@@ -11,7 +11,7 @@
         android:layout_height="100dp"
         android:theme="@style/Theme.Bacon.AppBarOverlay"
         app:contentScrim="?attr/colorPrimary"
-        app:elevation="10dp">
+        app:elevation="@dimen/appbar_elevation">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
@@ -51,7 +51,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:clipToPadding="false"
-                android:paddingBottom="16dp"
+                android:paddingBottom="@dimen/list_bottom_margin"
                 android:paddingLeft="@dimen/list_side_margin"
                 android:paddingRight="@dimen/list_side_margin"
                 android:scrollbarStyle="outsideOverlay"/>

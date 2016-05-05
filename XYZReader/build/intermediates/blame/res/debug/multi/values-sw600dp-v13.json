@@ -450,11 +450,11 @@
                 "from": {
                     "file": "C:\\Users\\Praneeth\\Desktop\\AndroidProjects\\xyzReader-udacity\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 238,
+                        "startOffset": 279,
                         "endColumn": 41,
-                        "endOffset": 275
+                        "endOffset": 316
                     }
                 }
             },
@@ -463,8 +463,27 @@
                     "startLine": 26,
                     "startColumn": 4,
                     "startOffset": 1596,
+                    "endColumn": 40,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "C:\\Users\\Praneeth\\Desktop\\AndroidProjects\\xyzReader-udacity\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 40,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1637,
                     "endColumn": 94,
-                    "endOffset": 1686
+                    "endOffset": 1727
                 },
                 "from": {
                     "file": "C:\\Users\\Praneeth\\Desktop\\AndroidProjects\\xyzReader-udacity\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
@@ -479,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1691,
+                    "startOffset": 1732,
                     "endColumn": 54,
-                    "endOffset": 1741
+                    "endOffset": 1782
                 },
                 "from": {
                     "file": "C:\\Users\\Praneeth\\Desktop\\AndroidProjects\\xyzReader-udacity\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -498,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1746,
+                    "startOffset": 1787,
                     "endColumn": 62,
-                    "endOffset": 1804
+                    "endOffset": 1845
                 },
                 "from": {
                     "file": "C:\\Users\\Praneeth\\Desktop\\AndroidProjects\\xyzReader-udacity\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
@@ -517,12 +536,12 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1809,
-                    "endLine": 32,
+                    "startOffset": 1850,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 1986
+                    "endOffset": 2027
                 },
                 "from": {
                     "file": "C:\\Users\\Praneeth\\Desktop\\AndroidProjects\\xyzReader-udacity\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

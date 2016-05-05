@@ -240,4 +240,8 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowExitTransition">@transition/grid_exit</item>
+    </style>
 </resources>
